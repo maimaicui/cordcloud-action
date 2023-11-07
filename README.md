@@ -14,7 +14,7 @@ CordCloud 帐号自动续命。可配置 workflow 的触发条件为 `schedule`�
 | `email`  | CordCloud 邮箱         | 是       |                                                          | \${{ secrets.CC_EMAIL }}  |
 | `passwd` | CordCloud 密码         | 是       |                                                          | \${{ secrets.CC_PASSWD }} |
 | `secret` | CordCloud 两步验证密钥 | 否       |                                                          | \${{ secrets.CC_SECRET }} |
-| `host`   | CordCloud 站点         | 否       | cordcloud.us,cordcloud.one,<br>cordcloud.biz,c-cloud.xyz |                           |
+| `host`   | CordCloud 站点 111        | 否       | cordcloud.us,cordcloud.one,<br>cordcloud.biz,c-cloud.xyz |                           |
 
 注：
 
